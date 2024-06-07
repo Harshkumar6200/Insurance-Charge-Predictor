@@ -53,3 +53,5 @@ Open your browser and go to `http://localhost:8501`. Enter the required details,
 - **Random Forest Regressor:** Builds multiple decision trees and merges their predictions.
 
 Thank you for using the Insurance Charge Predictor! We hope this tool provides valuable insights and predictions for your insurance needs.
+
+URL: https://insurance-charge-predictor-gatfzeqefac8tz4ds3hc6x.streamlit.app/
