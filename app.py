@@ -4,9 +4,9 @@ import numpy as np
 import pandas as pd
 
 # Load the models
-lr = pickle.load(open("D:\\PYTHON1\\Data Science Project 1\\lr.pkl", 'rb'))
-dt = pickle.load(open("D:\\PYTHON1\\Data Science Project 1\\dt.pkl", 'rb'))
-rf = pickle.load(open("D:\\PYTHON1\\Data Science Project 1\\rf.pkl", 'rb'))
+lr = pickle.load(open("lr.pkl", 'rb'))
+dt = pickle.load(open("dt.pkl", 'rb'))
+rf = pickle.load(open("rf.pkl", 'rb'))
 
 # Streamlit app setup
 st.title("Insurance Charge Prediction App")
